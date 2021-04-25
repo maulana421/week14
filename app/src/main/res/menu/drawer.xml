@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/id_pw"
+        android:title="Pesan Web"
+        android:icon="@drawable/ic_baseline_web_asset_24"/>
+    <item
+        android:id="@+id/id_bagikan"
+        android:title="Bagikan"
+        android:icon="@drawable/ic_baseline_share_24"/>
+    <item
+        android:id="@+id/id_grup"
+        android:title="grup baru"
+        android:icon="@drawable/ic_baseline_person_add_24"/>
+    <item
+        android:id="@+id/favorite"
+        android:title="Favorite"
+        android:icon="@drawable/ic_baseline_favorite_24"/>
+    <item
+        android:id="@+id/id_setelan"
+        android:title="Setelan"
+        android:icon="@drawable/settings"/>
+    <item
+        android:id="@+id/id_bantuan"
+        android:title="Bantuan dan saran"
+        android:icon="@drawable/ic_baseline_help_24"/>
+
+</menu>
